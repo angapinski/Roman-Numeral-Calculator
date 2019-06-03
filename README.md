@@ -1,2 +1,2 @@
-# Roman-Numeral-Calculator
-Library for a Roman Numeral Calculator Kata
+# Roman-Numeral-Converter
+Library for a Roman Numeral Converter Kata
